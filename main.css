@@ -11,10 +11,10 @@ body {
 }
 
 .catalog {
-  max-width: 800px;
+  /* max-width: 800px; */
   margin: auto;
   padding: 30px;
-  margin-block: 20px;
+  /* margin-block: 20px; */
   border-radius: 5px;
   background: #e2f8ff;
   box-shadow: 0 0 10px rgba(238, 250, 255, 0.785);
